@@ -1,8 +1,8 @@
 'use strict';
 
-const EM = require('./es5');
+const Events = require('./index');
 
-let em1 = EM.shareInstance();
+let em1 = Events.Manager.shareInstance();
 
 em1.onMulti(['openFile', 'response'], function(msg) {
 

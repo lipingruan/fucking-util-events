@@ -1,0 +1,24 @@
+{
+  "name": "fucking-util-events",
+  "version": "0.0.1",
+  "description": "events manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipingruan/fucking-util-events.git"
+  },
+  "keywords": [
+    "event",
+    "events",
+    "manager"
+  ],
+  "author": "lipingruan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lipingruan/fucking-util-events/issues"
+  },
+  "homepage": "https://github.com/lipingruan/fucking-util-events#readme"
+}
